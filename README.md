@@ -22,6 +22,7 @@ An interactive Power BI dashboard designed to analyze shipment performance, sale
 To transform shipment data into meaningful business insights using data visualization and analysis.
 
 ## Project Files
+
 - Power BI dashboard (`Supply Chain & Shipment Analytics.pbix`)
 - Dashboard screenshot (`Supply Chain & Shipment Analytics dashboard.png`)
 
